@@ -22,7 +22,7 @@
 - 🧠 Aprendendo sobre: Full Stack Development & QA  
 - 💡 Interesse: Desenvolvimento de sistemas e qualidade de software  
 - 💞️ Objetivo: Utilizar tecnologia para gerar impacto social positivo  
-- 📫 Contato: [LinkedIn - Rodrigo Koichi Irie](https://www.linkedin.com/in/rodrigokoichi)
+- 📫 Contato: LinkedIn - Rodrigo Koichi Irie
 
 ---
 
@@ -58,7 +58,7 @@
 
 ### 🐍 Snake dos Commits
 
-![snake gif](https://github.com/Rkinbz/Rkinbz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k4NGE0YzB3a2NvZmZuM3Nvd3plNjNyb2hsYTNwcWl2MXk4bWtmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxf2o4G1eQGdlrUs/giphy.gif)
 
 ---
 
@@ -72,9 +72,8 @@
 
 ### 🔗 Links
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rodrigokoichi)  
-- 📜 Lattes: (adicione se quiser)  
-- 🌍 Portfólio: (adicione se tiver)
+- 🌐 [LinkedIn](www.linkedin.com/in/rodrigo-koichi-i-a1918b18a)  
+- 🌍 Portfólio: (Em andamento)
 
 ---
 
