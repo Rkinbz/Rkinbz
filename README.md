@@ -1,8 +1,5 @@
 
 <!-- Banner Samurai GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/o3ZQJYm.gif" alt="Samurai Developer" width="100%">
-</p>
 
 <h1 align="center">⚔️ Rodrigo Koichi - O Dev Samurai ⚔️</h1>
 
