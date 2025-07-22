@@ -3,8 +3,9 @@
 
 <h1 align="center">⚔️ Rodrigo Koichi - O Dev mago ⚔️</h1>
 
+<!-- Banner personalizado com GIF do Imgur -->
 <p align="center">
-  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/M6NyrMI"  ><a href="//imgur.com/a/M6NyrMI">Here we go again…</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="Typing SVG" />
+  <img src="https://i.imgur.com/3sjLAV9.gif" alt="Samurai Developer" width="100%">
 </p>
 
 ---
