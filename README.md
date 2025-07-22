@@ -1,10 +1,10 @@
 
 <!-- Banner Samurai GIF -->
 
-<h1 align="center">⚔️ Rodrigo Koichi - O Dev Samurai ⚔️</h1>
+<h1 align="center">⚔️ Rodrigo Koichi - O Dev mago ⚔️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+em+Evolução;Testando+e+Codando+com+Honra;Tecnologia+com+Impacto+Social" alt="Typing SVG" />
+  <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/M6NyrMI"  ><a href="//imgur.com/a/M6NyrMI">Here we go again…</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,26 +44,17 @@
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rkinbz&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkinbz&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
 ### 🐍 Snake (PYTHON) dos Commits
 
 ![snake gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k4NGE0YzB3a2NvZmZuM3Nvd3plNjNyb2hsYTNwcWl2MXk4bWtmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxf2o4G1eQGdlrUs/giphy.gif)
 
 ---
 
-### ⚡ Curiosidades Ninja
+### ⚡ Curiosidades de mago
 
-- 🎯 Foco total no objetivo, como um verdadeiro shinobi  
-- ☕ Café é meu jutsu secreto  
-- 🗡️ Meus códigos seguem o caminho do guerreiro: simples, eficaz e limpo
+- 🎯 Foco total no objetivo, como um verdadeiro mago 
+- ☕ Café é meu magia secreta 
+- 🗡️ Meus códigos seguem o caminho do mago implacavel: simples, eficaz e limpo
 
 ---
 
@@ -79,5 +70,5 @@
 </p>
 
 <p align="center">
-  <i>"Código limpo é como um golpe certeiro de katana: direto, simples e mortal."</i>
+  <i>"Código limpo é como um golpe certeiro do cajado: direto, simples e mortal."</i>
 </p>
