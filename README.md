@@ -5,7 +5,7 @@
 
 <!-- Banner personalizado com GIF do Imgur -->
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/M6NyrMI"  ><a href="//imgur.com/a/M6NyrMI">Here we go again…</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://i.imgur.com/XADV99j.mp4" width="100%">
 </p>
 
 ---
