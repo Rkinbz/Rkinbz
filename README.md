@@ -56,7 +56,7 @@
 
 ---
 
-### 🐍 Snake dos Commits
+### 🐍 Snake (PYTHON) dos Commits
 
 ![snake gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k4NGE0YzB3a2NvZmZuM3Nvd3plNjNyb2hsYTNwcWl2MXk4bWtmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxf2o4G1eQGdlrUs/giphy.gif)
 
