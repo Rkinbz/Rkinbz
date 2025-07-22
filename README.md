@@ -9,7 +9,7 @@
 - 👀 Tenho interesse na área de **desenvolvimento de sistemas**
 - 🌱 Atualmente aprendendo sobre **Desenvolvimento Full Stack** e **Qualidade de Software (QA)**
 - 💞️ Busco colaborar com a sociedade utilizando a **tecnologia para gerar melhorias reais**
-- 📫 Como falar comigo: [LinkedIn - Rodrigo Koichi Irie](https://www.linkedin.com/in/rodrigokoichi/)
+- 📫 Como falar comigo: [LinkedIn - Rodrigo Koichi Irie]
 
 ---
 
