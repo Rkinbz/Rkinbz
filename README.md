@@ -5,7 +5,7 @@
 
 <!-- Banner personalizado com GIF do Imgur -->
 <p align="center">
-  <img src="https://i.imgur.com/XADV99j.mp4" width="100%">
+  <img src="https://i.imgur.com/XADV99j.mp4" alt="o mago implacavel" width="100%">
 </p>
 
 ---
