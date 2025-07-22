@@ -34,26 +34,12 @@
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rkinbz&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkinbz&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 🐍 Animação dos commits (Snake)
-
-![snake gif](https://github.com/Rkinbz/Rkinbz/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Links úteis
 
 - 🔗 [LinkedIn - Rodrigo Koichi Irie](https://www.linkedin.com/in/rodrigokoichi/)
+<!---
 - 📄 [Currículo Lattes (se tiver)](https://lattes.cnpq.br/SEU_ID)
-- 🌐 [Portfólio (se tiver)](https://seuportifolio.vercel.app)
+- 🌐 [Portfólio (se tiver)](https://seuportifolio.vercel.app)--->
 
 
 
