@@ -3,11 +3,6 @@
 
 <h1 align="center">⚔️ Rodrigo Koichi - O Dev mago ⚔️</h1>
 
-<!-- Banner personalizado com GIF do Imgur -->
-<p align="center">
-  <img src="[https://i.imgur.com/XADV99j.mp4](https://i.imgur.com/XADV99j.mp4)" alt="o mago implacavel" width="100%">
-</p>
-
 ---
 
 ### 🧙‍♂️ Sobre Mim
