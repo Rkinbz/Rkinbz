@@ -8,7 +8,7 @@
 ### 🧙‍♂️ Sobre Mim
 
 ```txt
-"Assim como o mago afio meu cajado, eu afio meus códigos."
+"Assim como o mago afia seu cajado, eu afio meus códigos."
 ```
 
 - 👨‍💻 Nome: Rodrigo Koichi Irie (aka @Rkinbz)  
